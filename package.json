@@ -18,6 +18,7 @@
     "test": "mocha --require should --reporter spec"
   },
   "dependencies": {
+    "open-engine": "opencommerce/open-engine",
     "sync-request": "^2.0.1"
   }
 }
